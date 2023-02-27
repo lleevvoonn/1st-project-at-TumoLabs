@@ -20,7 +20,8 @@ def story_1():
 
     story1 = f"It was about {Number} {Measure_of_time} ago when I arrived at the hospital in a {Mode_of_transportation}. The hospital is a/an {Adjective} place, there are a lot of {Adjective2} {Noun} here. There are nurses here who have {Color} {Part_of_the_body}. If someone wants to come into my room I told them that they have to {Verb} first. I have decorated my room with {Number2} {Noun2}. Today I talked to a doctor and they were wearing a {Noun3} on their {Part_of_the_body2}. I heard that all doctors {Verb} {Noun4} every day for breakfast. The most {Adjective3} thing about being in the hospital is the {Silly_word} {Noun} !"
     print(story1)
-    
+
+
 def story_2():
     Persons_name = input  ("Enter a persons name")
     Noun = input  ("Enter a noun")
